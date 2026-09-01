@@ -2,7 +2,7 @@
 Cody Gillette
 (CS 499-01) (FA26) SR PROJ:TEAM SOFTWARE DESIGN
 A centrilized media recommendation webpage.
-# Relfection
+# GitHub Practice Reflection
 What is the purpose of a Git commit?
     To create a log of changes to a project structure
 What is the difference between git push and git pull?
